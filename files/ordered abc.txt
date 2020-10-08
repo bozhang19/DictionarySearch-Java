@@ -1,0 +1,11 @@
+F: 6th
+C: 3rd
+I: 9th
+A: 1st
+D: 4th
+G: 7th
+J: 10th
+B: 2nd
+E: 5th
+H: 8th
+K: 11th
